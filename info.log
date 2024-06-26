@@ -1,0 +1,16 @@
+{
+  metadata: TypeError: Cannot read properties of undefined (reading 'replace')
+      at auth (file:///mnt/c/Jesus/Jesus/DOCUMENTOS%20PERSONALES/MASTERCONQUERBLOCKS/Node/ticketing-system/middlewares/auth.js:4:46)
+      at Layer.handle [as handle_request] (/mnt/c/Jesus/Jesus/DOCUMENTOS PERSONALES/MASTERCONQUERBLOCKS/Node/ticketing-system/node_modules/express/lib/router/layer.js:95:5)
+      at next (/mnt/c/Jesus/Jesus/DOCUMENTOS PERSONALES/MASTERCONQUERBLOCKS/Node/ticketing-system/node_modules/express/lib/router/route.js:149:13)
+      at Route.dispatch (/mnt/c/Jesus/Jesus/DOCUMENTOS PERSONALES/MASTERCONQUERBLOCKS/Node/ticketing-system/node_modules/express/lib/router/route.js:119:3)
+      at Layer.handle [as handle_request] (/mnt/c/Jesus/Jesus/DOCUMENTOS PERSONALES/MASTERCONQUERBLOCKS/Node/ticketing-system/node_modules/express/lib/router/layer.js:95:5)
+      at /mnt/c/Jesus/Jesus/DOCUMENTOS PERSONALES/MASTERCONQUERBLOCKS/Node/ticketing-system/node_modules/express/lib/router/index.js:284:15
+      at Function.process_params (/mnt/c/Jesus/Jesus/DOCUMENTOS PERSONALES/MASTERCONQUERBLOCKS/Node/ticketing-system/node_modules/express/lib/router/index.js:346:12)
+      at next (/mnt/c/Jesus/Jesus/DOCUMENTOS PERSONALES/MASTERCONQUERBLOCKS/Node/ticketing-system/node_modules/express/lib/router/index.js:280:10)
+      at Function.handle (/mnt/c/Jesus/Jesus/DOCUMENTOS PERSONALES/MASTERCONQUERBLOCKS/Node/ticketing-system/node_modules/express/lib/router/index.js:175:3)
+      at router (/mnt/c/Jesus/Jesus/DOCUMENTOS PERSONALES/MASTERCONQUERBLOCKS/Node/ticketing-system/node_modules/express/lib/router/index.js:47:12),
+  level: 'error',
+  message: "Cannot read properties of undefined (reading 'replace')",
+  timestamp: '2024-06-12T15:14:05.657Z'
+}
